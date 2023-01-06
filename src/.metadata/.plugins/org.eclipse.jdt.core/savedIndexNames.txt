@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\Users\doors\OneDrive\Documents\Browsers\TBS\Learn Coding From Scratch\Muin Academy\Java\youtube-games\Project Games\src\.metadata\.plugins\org.eclipse.jdt.core
+3068834847.index
+1865797976.index
+4167077019.index
